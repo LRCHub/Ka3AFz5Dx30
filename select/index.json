@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "仮死化",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2025-12-14T18:48:58.913686Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "仮死化 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥 & MEIKO",
+      "has_synced": true,
+      "path": "select/01_仮死化_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)_Vivid_BAD_SQUAD_feat._小豆沢こはね,_白石杏,_東雲彰人,_青柳冬弥_&_MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "仮死化",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO",
+      "has_synced": true,
+      "path": "select/02_仮死化_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "仮死化",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/03_仮死化_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "仮死化",
+      "artist": "Vivid BAD SQUAD, MEIKO, 小豆沢こはね, 白石杏, 東雲彰人 & 青柳冬弥",
+      "has_synced": true,
+      "path": "select/04_仮死化_Vivid_BAD_SQUAD,_MEIKO,_小豆沢こはね,_白石杏,_東雲彰人_&_青柳冬弥.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "仮死化 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/pl_01_仮死化_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)_Vivid_BAD_SQUAD.txt"
+    }
+  ]
+}
