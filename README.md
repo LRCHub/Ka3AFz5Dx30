@@ -1,4 +1,4 @@
-# Vivid BAD SQUAD – 仮死化
+# Vivid BAD SQUAD – 仮死化（feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
